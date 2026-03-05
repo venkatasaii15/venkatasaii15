@@ -11,7 +11,7 @@ I enjoy analysing data and transforming raw datasets into meaningful insights us
 - SQL
 - Python
 - Power BI
-- tabelua
+- Tableau
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 
