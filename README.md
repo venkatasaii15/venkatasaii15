@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Venkata Sai 👋
 
-<!--
-**venkatasaii15/venkatasaii15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate  
+📊 Aspiring Data Analyst  
+📍 India
 
-Here are some ideas to get you started:
+I enjoy analysing data and transforming raw datasets into meaningful insights using Excel, SQL, Python, and data visualisation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- tabelua
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+## Projects
+
+### Superstore Sales Analysis
+Analysed retail sales dataset using Excel to identify trends and build a dashboard for business insights.
+
+Tools Used:
+- Excel
+- Pivot Tables
+- Data Visualisation
+
+Project Link:
+https://github.com/venkatasaii15/sales-analysis-excel
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/venkata-sai-reddy23atoz
+Email: venkatasaii1508@gmail.com 
