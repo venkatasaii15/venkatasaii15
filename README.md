@@ -17,16 +17,17 @@ I enjoy analysing data and transforming raw datasets into meaningful insights us
 
 ## Projects
 
-### Superstore Sales Analysis
-Analysed retail sales dataset using Excel to identify trends and build a dashboard for business insights.
+**#High Cloud Airlines Data Analysis**
 
-Tools Used:
-- Excel
-- Pivot Tables
-- Data Visualisation
+Analyzed airline operational data using Excel, SQL, Power BI, and Tableau to create dashboards, calculate KPIs, and generate business insights.
 
-Project Link:
-https://github.com/venkatasaii15/sales-analysis-excel
+**Coffee Sales Analysis**
+
+Analyzed coffee sales data to identify trends and top-performing products.
+
+**Superstore Sales Analysis**
+
+Performed KPI analysis and dashboard creation using sales data.
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/venkata-sai-reddy23atoz
