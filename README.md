@@ -17,7 +17,7 @@ I enjoy analysing data and transforming raw datasets into meaningful insights us
 
 ## Projects
 
-**#High Cloud Airlines Data Analysis**
+**High Cloud Airlines Data Analysis**
 
 Analyzed airline operational data using Excel, SQL, Power BI, and Tableau to create dashboards, calculate KPIs, and generate business insights.
 
