@@ -1,34 +1,64 @@
-# Hi, I'm Venkata Sai 👋
+# Hi, I'm K. Venkata Sai Reddy 👋
 
-🎓 B.Tech Graduate  
-📊 Aspiring Data Analyst  
-📍 India
+🎓 B.Tech in Computer Engineering (AI & ML)
+📊 Aspiring Data Analyst
+📍 Bengaluru, India
 
-I enjoy analysing data and transforming raw datasets into meaningful insights using Excel, SQL, Python, and data visualisation tools.
+I am an aspiring Data Analyst with hands-on experience in Excel, SQL, Power BI, Tableau, and Data Visualization. I have completed a Data Analyst Internship and Data Analytics Certification, where I worked on data cleaning, KPI reporting, dashboard development, and business insights generation.
+
+I enjoy transforming raw data into meaningful insights that support data-driven decision-making and business growth.
 
 ## Skills
-- Excel
-- SQL
-- Python
-- Power BI
-- Tableau
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
+
+* Microsoft Excel (Advanced Excel, Pivot Tables, VLOOKUP, Dashboards)
+* SQL (MySQL)
+* Power BI
+* Tableau
+* Data Cleaning & Data Validation
+* Data Analysis
+* KPI Reporting
+* Dashboard Development
+* Data Visualization
+* Business Analytics
+* Python (Basics)
+
+## Certifications
+
+* Data Analyst Certification – ExcelR
+* Data Analyst Internship Project – AiVariant
 
 ## Projects
 
-**High Cloud Airlines Data Analysis**
+### ☕ Coffee Sales Dashboard
 
-Analyzed airline operational data using Excel, SQL, Power BI, and Tableau to create dashboards, calculate KPIs, and generate business insights.
+Analyzed coffee sales data using Excel and Power BI to identify sales trends, customer behavior, top-performing products, and revenue insights through interactive dashboards.
 
-**Coffee Sales Analysis**
+### ✈️ High Cloud Airlines Data Analysis
 
-Analyzed coffee sales data to identify trends and top-performing products.
+Analyzed airline operational data using Excel, SQL, Power BI, and Tableau to create dashboards, track KPIs, and generate insights on passenger trends, load factors, route efficiency, and carrier performance.
 
-**Superstore Sales Analysis**
+### 🏪 Superstore Sales Analysis
 
-Performed KPI analysis and dashboard creation using sales data.
+Performed sales performance analysis using Excel. Created KPIs, Pivot Tables, and dashboards to identify business trends and support decision-making.
+
+## Internship Experience
+
+### Data Analyst Intern | AiVariant
+
+Feb 2026 – May 2026
+
+* Performed data cleaning and validation
+* Worked with Excel, SQL, Power BI, and Tableau
+* Created KPI reports and dashboards
+* Generated business insights from datasets
+* Supported data-driven decision-making
+
+## Career Goal
+
+My goal is to start my career as a Data Analyst / MIS Executive / Reporting Analyst and grow into a Data Scientist by continuously improving my analytical, SQL, Python, and business intelligence skills.
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/venkata-sai-reddy23atoz
-Email: venkatasaii1508@gmail.com 
+
+🔗 LinkedIn: [www.linkedin.com/in/venkata-sai-23az](http://www.linkedin.com/in/venkata-sai-23az)
+
+📧 Email: [venkatasaii1508@gmail.com](mailto:venkatasaii1508@gmail.com)
