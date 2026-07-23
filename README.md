@@ -1,4 +1,4 @@
-# Hi, I'm K. Venkata Sai Reddy 👋
+# Hi, I'm K Venkata Sai Reddy 👋
 
 🎓 B.Tech in Computer Engineering (AI & ML)
 📊 Aspiring Data Analyst
@@ -29,23 +29,16 @@ I enjoy transforming raw data into meaningful insights that support data-driven 
 
 ## Projects
 
-### ☕ Coffee Sales Dashboard
-
-Analyzed coffee sales data using Excel and Power BI to identify sales trends, customer behavior, top-performing products, and revenue insights through interactive dashboards.
-
 ### ✈️ High Cloud Airlines Data Analysis
 
 Analyzed airline operational data using Excel, SQL, Power BI, and Tableau to create dashboards, track KPIs, and generate insights on passenger trends, load factors, route efficiency, and carrier performance.
 
-### 🏪 Superstore Sales Analysis
-
-Performed sales performance analysis using Excel. Created KPIs, Pivot Tables, and dashboards to identify business trends and support decision-making.
 
 ## Internship Experience
 
 ### Data Analyst Intern | AiVariant
 
-Feb 2026 – May 2026
+Jan 2026 – Jul 2026
 
 * Performed data cleaning and validation
 * Worked with Excel, SQL, Power BI, and Tableau
